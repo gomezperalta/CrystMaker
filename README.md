@@ -16,3 +16,5 @@ Drawbacks:
   <li>In case there were vacancies in the compound, the program will draw generate all the atoms ignoring the existing vacancies.</li>
   <li>In case there were two atom types in the same Wyckoff site, the program crashes. This normally happens with all programs when they deal with solid solutions.</li>
 </ol>
+
+When you run the program, this will ask you at the beginning for the absolute route where the CIFs files are. In case the CIF you wish to model is not in the same directory as CrystMaker.py, you will have to provide it. Otherwise, you can simply press Enter.
