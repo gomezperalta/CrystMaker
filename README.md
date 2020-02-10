@@ -6,7 +6,7 @@ The code was done in Linux and uses the Python module 'pymatgen'. Please, check 
 The program has three options:
 
 <ul>
-  <li>Positions: The atoms in the Unit Cell are generated without those atoms repeated in faces, edges or verteces.</li>
+  <li>Positions: The atoms in the Unit Cell are generated without repeating the atoms in faces, edges or verteces.</li>
   <li>UnitCell: The atoms in the Unit Cell are generated, including all the repeated atoms in faces, edges or verteces.</li>
   <li>CrystMaker: You create a Crystal nxnxn times the Unit Cell.</li>
 </ul>
