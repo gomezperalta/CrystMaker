@@ -1,5 +1,5 @@
 # CrystMaker
-This is a python program to generate xyz-files of crystal compounds. As input data you only need a cif file. xyz-files are useful to display an image of the crystal compounds in other programs such as VMD (Free, <a href="https://www.ks.uiuc.edu/Research/vmd/">link here</a>).
+This is a python program to generate xyz-files of crystal compounds. As input data you only need a cif file. The xyz-files are useful to display an image of the crystal compounds in other programs such as VMD (Free, <a href="https://www.ks.uiuc.edu/Research/vmd/">link here</a>).
 
 The code was done in Linux and uses the Python module 'pymatgen'. Please, check in the pymatgen documentation if this module is available for MacOs or Windows.
 
